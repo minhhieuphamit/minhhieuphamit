@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhhieuphamit&label=Profile%20views&color=0e75b6&style=flat" alt="minhhieuphamit" /> </p>-->
 
-- 📫 How to reach me **minhhieupham2002@gmail.com**
+- 📫 How to reach me **minhhieupham2002@outlook.com.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
