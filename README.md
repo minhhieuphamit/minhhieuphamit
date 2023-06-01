@@ -19,4 +19,4 @@
 ### :fire: My Stats: 
 ![Hieu Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhhieuphamit)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minhhieuphamit)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieuphamit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieuphamit&layout=compact)
