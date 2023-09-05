@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hieu Pham</h1>
-<h3 align="center">Third year student at Ho Chi Minh City University of Technology (HUTECH)</h3>
+<h3 align="center">Final year student at Ho Chi Minh City University of Technology (HUTECH)</h3>
 - 📫 How to reach me **minhhieupham2002@outlook.com.vn**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
