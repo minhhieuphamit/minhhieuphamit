@@ -8,7 +8,7 @@ Now, I am a final year student at Ho Chi Minh City University of Technology (HUT
 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [minhhieupham2002@outlook.com.vn](mailto:minhhieupham2002@outlook.com.vn)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm working at HDBANK
 
 <a href="https://www.github.com/minhhieuphamit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/minhhieuphamit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/minhhieuphamit" target="_blank" rel="noreferrer"><img
