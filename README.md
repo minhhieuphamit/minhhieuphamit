@@ -2,7 +2,7 @@
 
 ## Backend Developer
 
-I'm a final year student at Ho Chi Minh City University of Technology (HUTECH) with over 2 years of application development experience at HDBank, specializing in core banking systems and treasury operations.
+I'm a graduate from Ho Chi Minh City University of Technology (HUTECH) with over 2 years of application development experience at HDBank, specializing in core banking systems and treasury operations.
 
 ### 📍 Location & Contact
 
