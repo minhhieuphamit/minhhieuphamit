@@ -72,7 +72,7 @@ I'm a final year student at Ho Chi Minh City University of Technology (HUTECH) w
 
 - **Major:** Information Technology
 - **GPA:** 3.4 / 4.0
-- **Status:** Final year student
+- **Status:** Graduated
 
 ### 🏆 Achievements
 
@@ -91,7 +91,6 @@ I'm a final year student at Ho Chi Minh City University of Technology (HUTECH) w
 - **GitHub:** [@minhhieuphamit](https://github.com/minhhieuphamit)
 - **Email:** minhhieupham2002@gmail.com
 - **Facebook:** [Pham Minh Hieu](https://www.facebook.com/minhhieuphamit/hdnghi)
-- **Organization:** @Dhom-community-BHDTV-HUTECH
 
 ---
 
